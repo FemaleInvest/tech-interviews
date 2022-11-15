@@ -1,4 +1,4 @@
-# Full-Stack Engineer Technical Interview
+# Female Invest Technical Interview
 
 Welcome to the Female Invest technical interview! First of all, thank you for
 taking the time to take it. We know it's a tedious and somewhat stressful

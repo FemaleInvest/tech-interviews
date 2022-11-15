@@ -1,6 +1,22 @@
 # Full-Stack Engineer Take Home Assignment
 
-## Context
+For this take-home assignment, we are asking you to write a small web
+application implementing the project described below.
+
+The app should:
+
+- Be written in TypeScript.
+- Use React for its frontend.
+- Use Node.js for its backend.
+
+Other than that, you're free to choose whatever tools and libraries you prefer.
+
+Once you've written the app, you should share with us its source code - in one
+way or another.
+
+## The Project
+
+### Context
 
 One of Female Invest's core offering is a Learning Management System (LMS) that
 allows Female Invest customers to learn about investing, personal finance, and
@@ -14,18 +30,17 @@ starting to hamper Female Invest's ambitions.
 For this reason, Female Invest has decided to build a fully-custom, in-house
 replacement. Like the current LMS, the new one will be a web application.
 
-## The Project
+### Requirements
 
 Work on the new LMS - codenamed Octopus - has begun. The UX team has produced
-and sent you, the developer, the following mockup for the first page of the
-software.
+and sent you, the developer, the following mockup for the first page of the app.
 
 ![](./images/courses-page.excalidraw.png)
 
 The mockup shows the courses page, the main page the user lands on when they log
 into the LMS.
 
-### Courses
+#### Courses
 
 The **course** is the main entity the LMS: it's a learning program that teaches
 the user about a particular subject, for example how to start investing. The
@@ -52,7 +67,7 @@ information:
    the LMS tracks the progress of the user and shows in this box the completed
    percentage.
 
-### Courses Page
+#### Courses Page
 
 Let's also analyze the courses page in more detail.
 
@@ -67,15 +82,11 @@ Let's also analyze the courses page in more detail.
    they can continue going through the course. The course player page has not
    been mocked-up by the UX team yet, so you don't need to build it for now.
 
-## Your Task
+### Your Task
 
-For this take-home assignment we are asking you to turn the mockup shown above
-into an actual web application.
+Your task is to implement the courses page shown in the mockup.
 
-The app should be a run-of-the-mill TypeScript web app, consisting of a React
-frontend, a Node.js backend, and some database to store information.
-
-### But It's a Lot of Work!
+#### But It's a Lot of Work!
 
 Even a single page with a couple of simple lists can take a long time to code
 properly. First of all you need to set up the frontend, the backend, and the

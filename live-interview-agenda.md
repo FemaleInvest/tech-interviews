@@ -1,6 +1,6 @@
 # Live Interview Agenda
 
-- **Short introduction (~10 minutes).**
+- **Short introduction.**
 
   First, we’ll introduce ourselves, so you know who you’re speaking to. 🙂 Then
   it’s your turn. We would like to know:
@@ -13,7 +13,7 @@
     social-network spaces.
   - Anything _you_ want us to know.
 
-- **Take-home assignment review and pair programming (~50 minutes).**
+- **Take-home assignment review and pair programming.**
 
   Together we'll review your take-home assignment, sharing what we liked about
   it, what we'd have liked to see, and in general asking you about how you
@@ -30,13 +30,13 @@
   help if you don’t know how to do something. Of course, you can also use Google
   during the session.
 
-- **General technical questions (~20 minutes).**
+- **General technical questions.**
 
   We’ll ask you a series of technical questions in your areas of expertise. They
   could be very specific or very general. We don’t expect perfect answers, and
   “I have no clue” is also acceptable. 😉
 
-- **Open feedback (~10 minutes).**
+- **Open feedback.**
 
   If you’re up for it, we like to finish our interviews by openly sharing our
   impressions on how the interview went: what we liked about you, but also what
