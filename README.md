@@ -10,14 +10,14 @@ The technical interview is divided into two parts:
 1. **Take-home assignment.**
 
    The take-home assignment is a relatively short (max 4 hours) technical
-   exercise that we ask you to complete on your own before coming in for the
-   second part of the interview. The subject of the assignment depends on the
-   role you're interviewing for. You can find assignments for the various roles
-   in the [assignments](./assignments/) directory of this repository.
+   exercise that we ask you to complete on your own before inviting you in for
+   the second part of the interview. The subject of the assignment depends on
+   the role you're interviewing for. You can find assignments for the various
+   roles in the [assignments](./assignments/) directory of this repository.
 
-   Once you've completed the assignment, you should send it to us (in one way or
-   another) so that we can take a look at it before we meet for the second part
-   of the interview.
+   Once you've completed the assignment, you should send it to us in one way or
+   another. We will then evaluate it and, if it passes our review, invite you in
+   for the second part of the interview.
 
 2. **Live interview with pair programming.**
 

@@ -100,7 +100,7 @@ along you can get, it's OK, and will serve as a starting point for our live
 interview. You can choose to focus just on (certain aspects of) the frontend,
 the backend, or even spend all your time on a kick-ass project setup. Your call.
 
-Indeed, _we prefer_ for you to focus on a just few things and do them very well,
+Indeed, _we prefer_ for you to focus on just a few things and do them very well,
 so you can show us your skill ceiling.
 
 ### Evaluation criteria
