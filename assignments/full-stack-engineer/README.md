@@ -97,5 +97,36 @@ couple of weeks.
 Of course, we don't expect you to work that much! We really value your time, and
 we don't want you to spend more than 4 hours on this assignment. However far
 along you can get, it's OK, and will serve as a starting point for our live
-interview. You can choose to focus just on the frontend, the backend, or even
-spend all your time on a kick-ass project setup. Your call.
+interview. You can choose to focus just on (certain aspects of) the frontend,
+the backend, or even spend all your time on a kick-ass project setup. Your call.
+
+Indeed, _we prefer_ for you to focus on a just few things and do them very well,
+so you can show us your skill ceiling.
+
+### Evaluation criteria
+
+The scope of the task is broad and our evaluation criteria vary based on what
+part of the task you chose to focus on. To give you an idea, here's a
+non-exhaustive and randomly-sorted list of questions we'll ask ourselves when
+reviewing your assignment.
+
+- Frontend:
+  - How are components organized? How are responsibilities split among them? Do
+    components have a clear API?
+  - What state management patterns are used?
+  - How is styling managed?
+- Backend:
+  - How are the entities and operations exposed by the API modelled? Is the API
+    documented?
+  - Does the backend follow some architectural pattern? How are responsibilities
+    split among the various parts of the codebase?
+  - How is the database structured? How is it accessed?
+- General:
+  - Is naming consistent throughout the project? How about files and folders
+    structure?
+  - Are things tested? How?
+
+Again, we don't expect your solution to be perfect on all the above aspects. On
+the contrary. It's completely normal if, for example, you tell us _"I just
+implemented the frontend, and even there I just phoned-in styling and put all my
+effort on state management and testing"_.
