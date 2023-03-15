@@ -1,3 +1,4 @@
-# Technical Interview Take-Home Assignments
+# Technical interview take-home assignments
 
-- [Full-Stack Engineer](./full-stack-engineer/)
+- [Full-stack engineer](./full-stack-engineer/)
+- [DevOps engineer](./devops-engineer/)

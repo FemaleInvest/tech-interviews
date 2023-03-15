@@ -1,4 +1,4 @@
-# Female Invest Technical Interview
+# Female Invest technical interview
 
 Welcome to the Female Invest technical interview! First of all, thank you for
 taking the time to take it. We know it's a tedious and somewhat stressful
@@ -30,10 +30,10 @@ The technical interview is divided into two parts:
    [Here](./live-interview-agenda.md) you can find the detailed agenda for the
    live interview.
 
-If you're reading this you've probably been sent here by one of our recruiters
-after having gone through the first interview, and you're now ready to take the
-technical interview. You've also probably been given an end date by which you
-should send in your take-home assignment.
+If you're reading this you've probably been sent here by one of our recruiters,
+possibly after having gone through a first introductory interview, and you're
+now ready to take the technical interview. You've also probably been given an
+end date by which you should send in your take-home assignment.
 
 So well, you can now pick the assignment for your role from the
 [assignments](./assignments/) directory and start working on it. 🙂

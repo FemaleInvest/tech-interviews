@@ -1,4 +1,4 @@
-# Full-Stack Engineer Take Home Assignment
+# Full-stack engineer take home assignment
 
 For this take-home assignment, we are asking you to write a small web
 application implementing the project described below.
@@ -14,7 +14,7 @@ Other than that, you're free to choose whatever tools and libraries you prefer.
 Once you've written the app, you should share with us its source code - in one
 way or another.
 
-## The Project
+## The project
 
 ### Context
 
@@ -67,7 +67,7 @@ information:
    the LMS tracks the progress of the user and shows in this box the completed
    percentage.
 
-#### Courses Page
+#### Courses page
 
 Let's also analyze the courses page in more detail.
 
@@ -82,11 +82,11 @@ Let's also analyze the courses page in more detail.
    they can continue going through the course. The course player page has not
    been mocked-up by the UX team yet, so you don't need to build it for now.
 
-### Your Task
+### Your task
 
 Your task is to implement the courses page shown in the mockup.
 
-#### But It's a Lot of Work!
+#### But it's a lot of work!
 
 Even a single page with a couple of simple lists can take a long time to code
 properly. First of all you need to set up the frontend, the backend, and the
@@ -94,7 +94,7 @@ database. Then you have to model the domain, define an API, implement it, write
 tests... If one wanted to make it production-ready, it could easily take a
 couple of weeks.
 
-Of course, we don't expect you to work that much! We really value your time, and
+Of course, we don't expect you to work that much! We really value your time and
 we don't want you to spend more than 4 hours on this assignment. However far
 along you can get, it's OK, and will serve as a starting point for our live
 interview. You can choose to focus just on (certain aspects of) the frontend,

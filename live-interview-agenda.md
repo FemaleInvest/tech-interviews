@@ -1,4 +1,4 @@
-# Live Interview Agenda
+# Live interview agenda
 
 - **Short introduction.**
 
