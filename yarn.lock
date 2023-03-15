@@ -23,288 +23,335 @@
     chalk "^2.0.0"
     js-tokens "^4.0.0"
 
-"@cspell/cspell-bundled-dicts@6.14.2":
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/cspell-bundled-dicts/-/cspell-bundled-dicts-6.14.2.tgz#7634b3baa77dedd483a62e7493be9508a035a230"
-  integrity sha1-djSzuqd97dSDpi50k76VCKA1ojA=
+"@cspell/cspell-bundled-dicts@6.29.3":
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/cspell-bundled-dicts/-/cspell-bundled-dicts-6.29.3.tgz#a6c50a0acf516277b6d2020d0ab15ca4eefd4bab"
+  integrity sha1-psUKCs9RYne20gINCrFcpO79S6s=
   dependencies:
-    "@cspell/dict-ada" "^4.0.0"
+    "@cspell/dict-ada" "^4.0.1"
     "@cspell/dict-aws" "^3.0.0"
-    "@cspell/dict-bash" "^4.0.0"
-    "@cspell/dict-companies" "^3.0.3"
-    "@cspell/dict-cpp" "^4.0.0"
+    "@cspell/dict-bash" "^4.1.1"
+    "@cspell/dict-companies" "^3.0.9"
+    "@cspell/dict-cpp" "^4.0.3"
     "@cspell/dict-cryptocurrencies" "^3.0.1"
-    "@cspell/dict-csharp" "^4.0.1"
-    "@cspell/dict-css" "^4.0.0"
-    "@cspell/dict-dart" "^2.0.0"
-    "@cspell/dict-django" "^4.0.0"
-    "@cspell/dict-docker" "^1.1.3"
-    "@cspell/dict-dotnet" "^4.0.0"
-    "@cspell/dict-elixir" "^4.0.0"
+    "@cspell/dict-csharp" "^4.0.2"
+    "@cspell/dict-css" "^4.0.5"
+    "@cspell/dict-dart" "^2.0.2"
+    "@cspell/dict-django" "^4.0.2"
+    "@cspell/dict-docker" "^1.1.6"
+    "@cspell/dict-dotnet" "^4.0.2"
+    "@cspell/dict-elixir" "^4.0.2"
+    "@cspell/dict-en-common-misspellings" "^1.0.2"
     "@cspell/dict-en-gb" "1.1.33"
-    "@cspell/dict-en_us" "^4.0.1"
+    "@cspell/dict-en_us" "^4.3.0"
     "@cspell/dict-filetypes" "^3.0.0"
-    "@cspell/dict-fonts" "^3.0.0"
-    "@cspell/dict-fullstack" "^3.0.0"
+    "@cspell/dict-fonts" "^3.0.1"
+    "@cspell/dict-fullstack" "^3.1.4"
+    "@cspell/dict-gaming-terms" "^1.0.4"
     "@cspell/dict-git" "^2.0.0"
-    "@cspell/dict-golang" "^5.0.0"
-    "@cspell/dict-haskell" "^4.0.0"
-    "@cspell/dict-html" "^4.0.1"
+    "@cspell/dict-golang" "^5.0.2"
+    "@cspell/dict-haskell" "^4.0.1"
+    "@cspell/dict-html" "^4.0.3"
     "@cspell/dict-html-symbol-entities" "^4.0.0"
-    "@cspell/dict-java" "^5.0.2"
-    "@cspell/dict-latex" "^3.0.0"
+    "@cspell/dict-java" "^5.0.5"
+    "@cspell/dict-k8s" "^1.0.1"
+    "@cspell/dict-latex" "^3.1.0"
     "@cspell/dict-lorem-ipsum" "^3.0.0"
-    "@cspell/dict-lua" "^3.0.0"
-    "@cspell/dict-node" "^4.0.1"
-    "@cspell/dict-npm" "^4.0.1"
-    "@cspell/dict-php" "^3.0.3"
-    "@cspell/dict-powershell" "^3.0.0"
-    "@cspell/dict-public-licenses" "^2.0.0"
-    "@cspell/dict-python" "^4.0.0"
-    "@cspell/dict-r" "^2.0.0"
-    "@cspell/dict-ruby" "^3.0.0"
-    "@cspell/dict-rust" "^3.0.0"
-    "@cspell/dict-scala" "^3.0.0"
-    "@cspell/dict-software-terms" "^3.0.5"
-    "@cspell/dict-sql" "^2.0.0"
-    "@cspell/dict-swift" "^2.0.0"
-    "@cspell/dict-typescript" "^3.0.1"
+    "@cspell/dict-lua" "^4.0.1"
+    "@cspell/dict-node" "^4.0.2"
+    "@cspell/dict-npm" "^5.0.5"
+    "@cspell/dict-php" "^3.0.4"
+    "@cspell/dict-powershell" "^4.0.2"
+    "@cspell/dict-public-licenses" "^2.0.1"
+    "@cspell/dict-python" "^4.0.2"
+    "@cspell/dict-r" "^2.0.1"
+    "@cspell/dict-ruby" "^4.0.2"
+    "@cspell/dict-rust" "^4.0.1"
+    "@cspell/dict-scala" "^4.0.1"
+    "@cspell/dict-software-terms" "^3.1.5"
+    "@cspell/dict-sql" "^2.1.0"
+    "@cspell/dict-svelte" "^1.0.2"
+    "@cspell/dict-swift" "^2.0.1"
+    "@cspell/dict-typescript" "^3.1.1"
     "@cspell/dict-vue" "^3.0.0"
 
-"@cspell/cspell-pipe@6.14.2":
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/cspell-pipe/-/cspell-pipe-6.14.2.tgz#642662bf1a0ec2efad84f7ecdeccc268f90cb562"
-  integrity sha1-ZCZivxoOwu+thPfs3szCaPkMtWI=
+"@cspell/cspell-pipe@6.29.3":
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/cspell-pipe/-/cspell-pipe-6.29.3.tgz#f6698201763526cb6e51453bd1b1981e960578c1"
+  integrity sha1-9mmCAXY1JstuUUU70bGYHpYFeME=
 
-"@cspell/cspell-service-bus@6.14.2":
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/cspell-service-bus/-/cspell-service-bus-6.14.2.tgz#cee88eb96f5792bd1d709c8838b9bf61c43bf1eb"
-  integrity sha1-zuiOuW9Xkr0dcJyIOLm/YcQ78es=
+"@cspell/cspell-service-bus@6.29.3":
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/cspell-service-bus/-/cspell-service-bus-6.29.3.tgz#6c27fd1dfe9935147a396e4b9a0827736de734c4"
+  integrity sha1-bCf9Hf6ZNRR6OW5Lmggnc23nNMQ=
 
-"@cspell/cspell-types@6.14.2":
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/cspell-types/-/cspell-types-6.14.2.tgz#66f06974cc0aa3b832267b6ee15268fb43b92b73"
-  integrity sha1-ZvBpdMwKo7gyJntu4VJo+0O5K3M=
+"@cspell/cspell-types@6.29.3":
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/cspell-types/-/cspell-types-6.29.3.tgz#e32dc1b6a30bed644e0090eb8b8e5526a0531eaf"
+  integrity sha1-4y3BtqML7WROAJDri45VJqBTHq8=
 
-"@cspell/dict-ada@^4.0.0":
-  version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-ada/-/dict-ada-4.0.0.tgz#172727272ff553c5782335eb2d8cf8eb1e2c11e4"
-  integrity sha1-FycnJy/1U8V4IzXrLYz46x4sEeQ=
+"@cspell/dict-ada@^4.0.1":
+  version "4.0.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-ada/-/dict-ada-4.0.1.tgz#214c91445eab16bd3fe10da5517f95bf2c90fe5f"
+  integrity sha1-IUyRRF6rFr0/4Q2lUX+VvyyQ/l8=
 
 "@cspell/dict-aws@^3.0.0":
   version "3.0.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-aws/-/dict-aws-3.0.0.tgz#7b2db82bb632c664c3d72b83267b93b9b0cafe60"
   integrity sha1-ey24K7YyxmTD1yuDJnuTubDK/mA=
 
-"@cspell/dict-bash@^4.0.0":
-  version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-bash/-/dict-bash-4.0.0.tgz#b27cc1c068587dcb5a0fa6ea024f0192f4369681"
-  integrity sha1-snzBwGhYfctaD6bqAk8BkvQ2loE=
+"@cspell/dict-bash@^4.1.1":
+  version "4.1.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-bash/-/dict-bash-4.1.1.tgz#fe28016096f44d4a09fe4c5bcaf6fa40f33d98c6"
+  integrity sha1-/igBYJb0TUoJ/kxbyvb6QPM9mMY=
 
-"@cspell/dict-companies@^3.0.3":
-  version "3.0.3"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-companies/-/dict-companies-3.0.3.tgz#06231a0d21fa1b9137edd1b0702a5da79bc0cacc"
-  integrity sha1-BiMaDSH6G5E37dGwcCpdp5vAysw=
+"@cspell/dict-companies@^3.0.9":
+  version "3.0.9"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-companies/-/dict-companies-3.0.9.tgz#dfc35ad35478c8bee20a8ecd9f7509c359fe334b"
+  integrity sha1-38Na01R4yL7iCo7Nn3UJw1n+M0s=
 
-"@cspell/dict-cpp@^4.0.0":
-  version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-cpp/-/dict-cpp-4.0.0.tgz#e51be1865a70964be32c70c5a5fce28fb4cf46e2"
-  integrity sha1-5RvhhlpwlkvjLHDFpfzij7TPRuI=
+"@cspell/dict-cpp@^4.0.3":
+  version "4.0.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-cpp/-/dict-cpp-4.0.3.tgz#5479e0a6477af9b1f6d0930e3f2f6025daf62cac"
+  integrity sha1-VHngpkd6+bH20JMOPy9gJdr2LKw=
 
 "@cspell/dict-cryptocurrencies@^3.0.1":
   version "3.0.1"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-cryptocurrencies/-/dict-cryptocurrencies-3.0.1.tgz#de1c235d6427946b679d23aacff12fea94e6385b"
   integrity sha1-3hwjXWQnlGtnnSOqz/Ev6pTmOFs=
 
-"@cspell/dict-csharp@^4.0.1":
-  version "4.0.1"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-csharp/-/dict-csharp-4.0.1.tgz#7eeb14b8f324d32df03d76a8b72cde2209944c44"
-  integrity sha1-fusUuPMk0y3wPXaotyzeIgmUTEQ=
+"@cspell/dict-csharp@^4.0.2":
+  version "4.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-csharp/-/dict-csharp-4.0.2.tgz#e55659dbe594e744d86b1baf0f3397fe57b1e283"
+  integrity sha1-5VZZ2+WU50TYaxuvDzOX/lex4oM=
 
-"@cspell/dict-css@^4.0.0":
-  version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-css/-/dict-css-4.0.0.tgz#b5ce2b1eeabc72e02770ad118885d43fc02af882"
-  integrity sha1-tc4rHuq8cuAncK0RiIXUP8Aq+II=
+"@cspell/dict-css@^4.0.5":
+  version "4.0.5"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-css/-/dict-css-4.0.5.tgz#2233138a03c163f82b0f6fbe0cdd2aada3ca4afc"
+  integrity sha1-IjMTigPBY/grD2++DN0qraPKSvw=
 
-"@cspell/dict-dart@^2.0.0":
-  version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-dart/-/dict-dart-2.0.0.tgz#e4189e23a29270dcc92e994df31b520239785c42"
-  integrity sha1-5BieI6KScNzJLplN8xtSAjl4XEI=
+"@cspell/dict-dart@^2.0.2":
+  version "2.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-dart/-/dict-dart-2.0.2.tgz#714285f4f8bd304c1c477779ccbbfae5949819d7"
+  integrity sha1-cUKF9Pi9MEwcR3d5zLv65ZSYGdc=
 
-"@cspell/dict-django@^4.0.0":
-  version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-django/-/dict-django-4.0.0.tgz#a472056db5f2eed1fd5a5d7f441530897197db57"
-  integrity sha1-pHIFbbXy7tH9Wl1/RBUwiXGX21c=
+"@cspell/dict-django@^4.0.2":
+  version "4.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-django/-/dict-django-4.0.2.tgz#08d21ee3ce7e323e4d7634abf6d69a96a6d4930c"
+  integrity sha1-CNIe485+Mj5NdjSr9taalqbUkww=
 
-"@cspell/dict-docker@^1.1.3":
-  version "1.1.3"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-docker/-/dict-docker-1.1.3.tgz#a9772c3ad163788525eb41fb6e25f9020e5ef00f"
-  integrity sha1-qXcsOtFjeIUl60H7biX5Ag5e8A8=
+"@cspell/dict-docker@^1.1.6":
+  version "1.1.6"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-docker/-/dict-docker-1.1.6.tgz#f84faed121e2093e3b212d19542fd27eda751c80"
+  integrity sha1-+E+u0SHiCT47IS0ZVC/Sftp1HIA=
 
-"@cspell/dict-dotnet@^4.0.0":
-  version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-dotnet/-/dict-dotnet-4.0.0.tgz#0e0ba551885d4713833bb39b83a1211876150bb4"
-  integrity sha1-DgulUYhdRxODO7Obg6EhGHYVC7Q=
+"@cspell/dict-dotnet@^4.0.2":
+  version "4.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-dotnet/-/dict-dotnet-4.0.2.tgz#f066040c88efc3a4419fb8844427430d44f970b3"
+  integrity sha1-8GYEDIjvw6RBn7iERCdDDUT5cLM=
 
-"@cspell/dict-elixir@^4.0.0":
-  version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-elixir/-/dict-elixir-4.0.0.tgz#336dd133890dc84931dad63292927926f9bca986"
-  integrity sha1-M23RM4kNyEkx2tYykpJ5Jvm8qYY=
+"@cspell/dict-elixir@^4.0.2":
+  version "4.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-elixir/-/dict-elixir-4.0.2.tgz#1a37e92b45d744e1b78714c64811ca3dbc600a5c"
+  integrity sha1-GjfpK0XXROG3hxTGSBHKPbxgClw=
+
+"@cspell/dict-en-common-misspellings@^1.0.2":
+  version "1.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-en-common-misspellings/-/dict-en-common-misspellings-1.0.2.tgz#3c4ebab8e9e906d66d60f53c8f8c2e77b7f108e7"
+  integrity sha1-PE66uOnpBtZtYPU8j4wud7fxCOc=
 
 "@cspell/dict-en-gb@1.1.33":
   version "1.1.33"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-en-gb/-/dict-en-gb-1.1.33.tgz#7f1fd90fc364a5cb77111b5438fc9fcf9cc6da0e"
   integrity sha1-fx/ZD8Nkpct3ERtUOPyfz5zG2g4=
 
-"@cspell/dict-en_us@^4.0.1":
-  version "4.0.1"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-en_us/-/dict-en_us-4.0.1.tgz#c8c2884c7b4808431a8913066be7e34d11c688e2"
-  integrity sha1-yMKITHtICEMaiRMGa+fjTRHGiOI=
+"@cspell/dict-en_us@^4.3.0":
+  version "4.3.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-en_us/-/dict-en_us-4.3.1.tgz#88ae0fb555897ed77810867b849cc3495298f362"
+  integrity sha1-iK4PtVWJftd4EIZ7hJzDSVKY82I=
 
 "@cspell/dict-filetypes@^3.0.0":
   version "3.0.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-filetypes/-/dict-filetypes-3.0.0.tgz#3bb1ede3e28449f0d76024a7b918a556f210973a"
   integrity sha1-O7Ht4+KESfDXYCSnuRilVvIQlzo=
 
-"@cspell/dict-fonts@^3.0.0":
-  version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-fonts/-/dict-fonts-3.0.0.tgz#af2755305fbd62fb55a8515989a29f6e58aff9c9"
-  integrity sha1-rydVMF+9YvtVqFFZiaKfbliv+ck=
+"@cspell/dict-fonts@^3.0.1":
+  version "3.0.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-fonts/-/dict-fonts-3.0.1.tgz#0e0b875d463a9bd65e78145c9b6649ecad017df5"
+  integrity sha1-DguHXUY6m9ZeeBRcm2ZJ7K0BffU=
 
-"@cspell/dict-fullstack@^3.0.0":
-  version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-fullstack/-/dict-fullstack-3.0.0.tgz#e03e0bf627f6d8946c156b824aa99d7ae8344800"
-  integrity sha1-4D4L9if22JRsFWuCSqmdeug0SAA=
+"@cspell/dict-fullstack@^3.1.4":
+  version "3.1.4"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-fullstack/-/dict-fullstack-3.1.4.tgz#930a66a1397f463c807e54dd01b0c79ec3f7fc21"
+  integrity sha1-kwpmoTl/RjyAflTdAbDHnsP3/CE=
+
+"@cspell/dict-gaming-terms@^1.0.4":
+  version "1.0.4"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-gaming-terms/-/dict-gaming-terms-1.0.4.tgz#b67d89d014d865da6cb40de4269d4c162a00658e"
+  integrity sha1-tn2J0BTYZdpstA3kJp1MFioAZY4=
 
 "@cspell/dict-git@^2.0.0":
   version "2.0.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-git/-/dict-git-2.0.0.tgz#fa5cb298845da9c69efc01c6af07a99097718dc9"
   integrity sha1-+lyymIRdqcae/AHGrwepkJdxjck=
 
-"@cspell/dict-golang@^5.0.0":
-  version "5.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-golang/-/dict-golang-5.0.0.tgz#4691483b46ef43985d3b24b51cec89524af9cb9b"
-  integrity sha1-RpFIO0bvQ5hdOyS1HOyJUkr5y5s=
+"@cspell/dict-golang@^5.0.2":
+  version "5.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-golang/-/dict-golang-5.0.2.tgz#3c2c36fbe84f8b83424e06809f0dff76bdf07aaa"
+  integrity sha1-PCw2++hPi4NCTgaAnw3/dr3weqo=
 
-"@cspell/dict-haskell@^4.0.0":
-  version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-haskell/-/dict-haskell-4.0.0.tgz#d63d863d420686c0f2502ca5ca10b251cccb1af2"
-  integrity sha1-1j2GPUIGhsDyUCylyhCyUczLGvI=
+"@cspell/dict-haskell@^4.0.1":
+  version "4.0.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-haskell/-/dict-haskell-4.0.1.tgz#e9fca7c452411ff11926e23ffed2b50bb9b95e47"
+  integrity sha1-6fynxFJBH/EZJuI//tK1C7m5Xkc=
 
 "@cspell/dict-html-symbol-entities@^4.0.0":
   version "4.0.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-html-symbol-entities/-/dict-html-symbol-entities-4.0.0.tgz#4d86ac18a4a11fdb61dfb6f5929acd768a52564f"
   integrity sha1-TYasGKShH9th37b1kprNdopSVk8=
 
-"@cspell/dict-html@^4.0.1":
-  version "4.0.1"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-html/-/dict-html-4.0.1.tgz#bbda95c7b22f290028d0a164ad30892f8ef178da"
-  integrity sha1-u9qVx7IvKQAo0KFkrTCJL47xeNo=
+"@cspell/dict-html@^4.0.3":
+  version "4.0.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-html/-/dict-html-4.0.3.tgz#155450cb57750774583fce463d01d6323ab41701"
+  integrity sha1-FVRQy1d1B3RYP85GPQHWMjq0FwE=
 
-"@cspell/dict-java@^5.0.2":
-  version "5.0.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-java/-/dict-java-5.0.2.tgz#be6f8e9ebc8fe7ec3287f31ac74836990ede7878"
-  integrity sha1-vm+OnryP5+wyh/Max0g2mQ7eeHg=
+"@cspell/dict-java@^5.0.5":
+  version "5.0.5"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-java/-/dict-java-5.0.5.tgz#c673f27ce7a5d96e205f42e8be540aeda0beef11"
+  integrity sha1-xnPyfOel2W4gX0LovlQK7aC+7xE=
 
-"@cspell/dict-latex@^3.0.0":
-  version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-latex/-/dict-latex-3.0.0.tgz#921ed324f841cc7d0d70ac469d9b9758b4b005e3"
-  integrity sha1-kh7TJPhBzH0NcKxGnZuXWLSwBeM=
+"@cspell/dict-k8s@^1.0.1":
+  version "1.0.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-k8s/-/dict-k8s-1.0.1.tgz#6c0cc521dd42fee2c807368ebfef77137686f3a1"
+  integrity sha1-bAzFId1C/uLIBzaOv+93E3aG86E=
+
+"@cspell/dict-latex@^3.1.0":
+  version "3.1.0"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-latex/-/dict-latex-3.1.0.tgz#d643cac54c063f7ff141c222d2cdbf296cdddc29"
+  integrity sha1-1kPKxUwGP3/xQcIi0s2/KWzd3Ck=
 
 "@cspell/dict-lorem-ipsum@^3.0.0":
   version "3.0.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-lorem-ipsum/-/dict-lorem-ipsum-3.0.0.tgz#c6347660fcab480b47bdcaec3b57e8c3abc4af68"
   integrity sha1-xjR2YPyrSAtHvcrsO1fow6vEr2g=
 
-"@cspell/dict-lua@^3.0.0":
-  version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-lua/-/dict-lua-3.0.0.tgz#f90898cfa19610c7e228b4d5ba8fdeed55b0f4cf"
-  integrity sha1-+QiYz6GWEMfiKLTVuo/e7VWw9M8=
-
-"@cspell/dict-node@^4.0.1":
+"@cspell/dict-lua@^4.0.1":
   version "4.0.1"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-node/-/dict-node-4.0.1.tgz#9fe1dffa47c6fb536b2ab8f38e9a09b96591b888"
-  integrity sha1-n+Hf+kfG+1NrKrjzjpoJuWWRuIg=
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-lua/-/dict-lua-4.0.1.tgz#4c31975646cb2d71f1216c7aeaa0c5ab6994ea25"
+  integrity sha1-TDGXVkbLLXHxIWx66qDFq2mU6iU=
 
-"@cspell/dict-npm@^4.0.1":
+"@cspell/dict-node@^4.0.2":
+  version "4.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-node/-/dict-node-4.0.2.tgz#9e5f64d882568fdd2a2243542d1263dbbb87c53a"
+  integrity sha1-nl9k2IJWj90qIkNULRJj27uHxTo=
+
+"@cspell/dict-npm@^5.0.5":
+  version "5.0.5"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-npm/-/dict-npm-5.0.5.tgz#fa6c1bc983e34ddc6d97094c758a4e166afd6214"
+  integrity sha1-+mwbyYPjTdxtlwlMdYpOFmr9YhQ=
+
+"@cspell/dict-php@^3.0.4":
+  version "3.0.4"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-php/-/dict-php-3.0.4.tgz#32f25137a41c264886256a5b296e92224b0170b9"
+  integrity sha1-MvJRN6QcJkiGJWpbKW6SIksBcLk=
+
+"@cspell/dict-powershell@^4.0.2":
+  version "4.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-powershell/-/dict-powershell-4.0.2.tgz#d544e7ad9466b96bae49f6dd145eda61c67098a2"
+  integrity sha1-1UTnrZRmuWuuSfbdFF7aYcZwmKI=
+
+"@cspell/dict-public-licenses@^2.0.1":
+  version "2.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-public-licenses/-/dict-public-licenses-2.0.2.tgz#81f0fde2e78bf8160ce988ae6961003a3cde3d56"
+  integrity sha1-gfD94ueL+BYM6YiuaWEAOjzePVY=
+
+"@cspell/dict-python@^4.0.2":
+  version "4.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-python/-/dict-python-4.0.2.tgz#36582b21c1fda7f54d95052968b845dd595b585f"
+  integrity sha1-NlgrIcH9p/VNlQUpaLhF3VlbWF8=
+
+"@cspell/dict-r@^2.0.1":
+  version "2.0.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-r/-/dict-r-2.0.1.tgz#73474fb7cce45deb9094ebf61083fbf5913f440a"
+  integrity sha1-c0dPt8zkXeuQlOv2EIP79ZE/RAo=
+
+"@cspell/dict-ruby@^4.0.2":
+  version "4.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-ruby/-/dict-ruby-4.0.2.tgz#f94dd18ce21825756f96b4510e1e6dc8cbe45f84"
+  integrity sha1-+U3RjOIYJXVvlrRRDh5tyMvkX4Q=
+
+"@cspell/dict-rust@^4.0.1":
   version "4.0.1"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-npm/-/dict-npm-4.0.1.tgz#b8e4943723ce9c5c578eb693d16ccc3e3c283521"
-  integrity sha1-uOSUNyPOnFxXjraT0WzMPjwoNSE=
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-rust/-/dict-rust-4.0.1.tgz#ef0b88cb3a45265824e2c9ce31b0baa4e1050351"
+  integrity sha1-7wuIyzpFJlgk4snOMbC6pOEFA1E=
 
-"@cspell/dict-php@^3.0.3":
-  version "3.0.3"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-php/-/dict-php-3.0.3.tgz#5f29b924ddb69eb780ac75e8bbad21a3fd4dda00"
-  integrity sha1-Xym5JN22nreArHXou60ho/1N2gA=
+"@cspell/dict-scala@^4.0.1":
+  version "4.0.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-scala/-/dict-scala-4.0.1.tgz#ed7156ecdfa78b64c8e2477b5b8df075b7a3cef8"
+  integrity sha1-7XFW7N+ni2TI4kd7W43wdbejzvg=
 
-"@cspell/dict-powershell@^3.0.0":
-  version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-powershell/-/dict-powershell-3.0.0.tgz#b39fb6d918ac33317176f0d59ee85accbc1dbfcd"
-  integrity sha1-s5+22RisMzFxdvDVnuhazLwdv80=
+"@cspell/dict-software-terms@^3.1.5":
+  version "3.1.5"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-software-terms/-/dict-software-terms-3.1.5.tgz#9000ba07df6d868df257ca2438df36a0eb74acc6"
+  integrity sha1-kAC6B99tho3yV8okON82oOt0rMY=
 
-"@cspell/dict-public-licenses@^2.0.0":
-  version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-public-licenses/-/dict-public-licenses-2.0.0.tgz#fbe9b59ca530408d571ec1e92002195b5e64a64b"
-  integrity sha1-++m1nKUwQI1XHsHpIAIZW15kpks=
+"@cspell/dict-sql@^2.1.0":
+  version "2.1.0"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-sql/-/dict-sql-2.1.0.tgz#4210e83b9fc05ef91f577ae44fd264825ccfbf71"
+  integrity sha1-QhDoO5/AXvkfV3rkT9JkglzPv3E=
 
-"@cspell/dict-python@^4.0.0":
-  version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-python/-/dict-python-4.0.0.tgz#b3b206b20d57fa05d6e4dc921ef4dacb74a79405"
-  integrity sha1-s7IGsg1X+gXW5NySHvTay3SnlAU=
+"@cspell/dict-svelte@^1.0.2":
+  version "1.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-svelte/-/dict-svelte-1.0.2.tgz#0c866b08a7a6b33bbc1a3bdbe6a1b484ca15cdaa"
+  integrity sha1-DIZrCKemszu8Gjvb5qG0hMoVzao=
 
-"@cspell/dict-r@^2.0.0":
-  version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-r/-/dict-r-2.0.0.tgz#f9138199d4f7a1903895ad0c49329a4159b6e571"
-  integrity sha1-+ROBmdT3oZA4la0MSTKaQVm25XE=
+"@cspell/dict-swift@^2.0.1":
+  version "2.0.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-swift/-/dict-swift-2.0.1.tgz#06ec86e52e9630c441d3c19605657457e33d7bb6"
+  integrity sha1-BuyG5S6WMMRB08GWBWV0V+M9e7Y=
 
-"@cspell/dict-ruby@^3.0.0":
-  version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-ruby/-/dict-ruby-3.0.0.tgz#32ce796a85930080acc4883e83f9d36ba7995a6c"
-  integrity sha1-Ms55aoWTAICsxIg+g/nTa6eZWmw=
-
-"@cspell/dict-rust@^3.0.0":
-  version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-rust/-/dict-rust-3.0.0.tgz#8170fd9300bab7296822c908296f54acddc56a44"
-  integrity sha1-gXD9kwC6tyloIskIKW9UrN3FakQ=
-
-"@cspell/dict-scala@^3.0.0":
-  version "3.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-scala/-/dict-scala-3.0.0.tgz#4e74d4638208dd73beae718c3dc0eb8a171fa794"
-  integrity sha1-TnTUY4II3XO+rnGMPcDrihcfp5Q=
-
-"@cspell/dict-software-terms@^3.0.5":
-  version "3.0.5"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-software-terms/-/dict-software-terms-3.0.5.tgz#59c34ad7c04f2b6f4e968348785921ff09fe5db2"
-  integrity sha1-WcNK18BPK29OloNIeFkh/wn+XbI=
-
-"@cspell/dict-sql@^2.0.0":
-  version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-sql/-/dict-sql-2.0.0.tgz#945e0f46ed4d51794c1d0a5138e87fc1ce0e217d"
-  integrity sha1-lF4PRu1NUXlMHQpROOh/wc4OIX0=
-
-"@cspell/dict-swift@^2.0.0":
-  version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-swift/-/dict-swift-2.0.0.tgz#4b7742452ceb0c9cd55f5e7f261d58f4db9999c4"
-  integrity sha1-S3dCRSzrDJzVX15/Jh1Y9NuZmcQ=
-
-"@cspell/dict-typescript@^3.0.1":
-  version "3.0.1"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-typescript/-/dict-typescript-3.0.1.tgz#a72dac17f77d3fa628c674faa75f1baa39955e42"
-  integrity sha1-py2sF/d9P6YoxnT6p18bqjmVXkI=
+"@cspell/dict-typescript@^3.1.1":
+  version "3.1.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-typescript/-/dict-typescript-3.1.1.tgz#25a9c241fa79c032f907db21b0aaf7c7baee6cc3"
+  integrity sha1-JanCQfp5wDL5B9shsKr3x7rubMM=
 
 "@cspell/dict-vue@^3.0.0":
   version "3.0.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dict-vue/-/dict-vue-3.0.0.tgz#68ccb432ad93fcb0fd665352d075ae9a64ea9250"
   integrity sha1-aMy0Mq2T/LD9ZlNS0HWummTqklA=
 
-"@cspell/strong-weak-map@6.14.2":
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/strong-weak-map/-/strong-weak-map-6.14.2.tgz#73bdb978bcf027e678ebe42e89bd0df389ffbefc"
-  integrity sha1-c725eLzwJ+Z46+Quib0N84n/vvw=
+"@cspell/dynamic-import@6.29.3":
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/dynamic-import/-/dynamic-import-6.29.3.tgz#4546e6a748e608016533a3083acda1e8d87fed63"
+  integrity sha1-RUbmp0jmCAFlM6MIOs2h6Nh/7WM=
+  dependencies:
+    import-meta-resolve "^2.2.2"
 
-"@types/parse-json@^4.0.0":
-  version "4.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@types/parse-json/-/parse-json-4.0.0.tgz#2f8bb441434d163b35fb8ffdccd7138927ffb8c0"
-  integrity sha1-L4u0QUNNFjs1+4/9zNcTiSf/uMA=
+"@cspell/strong-weak-map@6.29.3":
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@cspell/strong-weak-map/-/strong-weak-map-6.29.3.tgz#faec08d088e5b7401f56644df02060a9b0e711d4"
+  integrity sha1-+uwI0Ijlt0AfVmRN8CBgqbDnEdQ=
+
+"@nodelib/fs.scandir@2.1.5":
+  version "2.1.5"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@nodelib/fs.scandir/-/fs.scandir-2.1.5.tgz#7619c2eb21b25483f6d167548b4cfd5a7488c3d5"
+  integrity sha1-dhnC6yGyVIP20WdUi0z9WnSIw9U=
+  dependencies:
+    "@nodelib/fs.stat" "2.0.5"
+    run-parallel "^1.1.9"
+
+"@nodelib/fs.stat@2.0.5", "@nodelib/fs.stat@^2.0.2":
+  version "2.0.5"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz#5bd262af94e9d25bd1e71b05deed44876a222e8b"
+  integrity sha1-W9Jir5Tp0lvR5xsF3u1Eh2oiLos=
+
+"@nodelib/fs.walk@^1.2.3":
+  version "1.2.8"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/@nodelib/fs.walk/-/fs.walk-1.2.8.tgz#e95737e8bb6746ddedf69c556953494f196fe69a"
+  integrity sha1-6Vc36LtnRt3t9pxVaVNJTxlv5po=
+  dependencies:
+    "@nodelib/fs.scandir" "2.1.5"
+    fastq "^1.6.0"
 
 ansi-regex@^5.0.1:
   version "5.0.1"
@@ -325,6 +372,11 @@ ansi-styles@^4.1.0:
   dependencies:
     color-convert "^2.0.1"
 
+argparse@^2.0.1:
+  version "2.0.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/argparse/-/argparse-2.0.1.tgz#246f50f3ca78a3240f6c997e8a9bd1eac49e4b38"
+  integrity sha1-JG9Q88p4oyQPbJl+ipvR6sSeSzg=
+
 array-timsort@^1.0.3:
   version "1.0.3"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/array-timsort/-/array-timsort-1.0.3.tgz#3c9e4199e54fb2b9c3fe5976396a21614ef0d926"
@@ -342,13 +394,6 @@ brace-expansion@^1.1.7:
   dependencies:
     balanced-match "^1.0.0"
     concat-map "0.0.1"
-
-brace-expansion@^2.0.1:
-  version "2.0.1"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/brace-expansion/-/brace-expansion-2.0.1.tgz#1edc459e0f0c548486ecf9fc99f2221364b9a0ae"
-  integrity sha1-HtxFng8MVISG7Pn8mfIiE2S5oK4=
-  dependencies:
-    balanced-match "^1.0.0"
 
 braces@^3.0.2:
   version "3.0.2"
@@ -411,10 +456,10 @@ color-name@~1.1.4:
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/color-name/-/color-name-1.1.4.tgz#c2a09a87acbde69543de6f63fa3995c826c536a2"
   integrity sha1-wqCah6y95pVD3m9j+jmVyCbFNqI=
 
-commander@^9.4.1:
-  version "9.4.1"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/commander/-/commander-9.4.1.tgz#d1dd8f2ce6faf93147295c0df13c7c21141cfbdd"
-  integrity sha1-0d2PLOb6+TFHKVwN8Tx8IRQc+90=
+commander@^10.0.0:
+  version "10.0.0"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/commander/-/commander-10.0.0.tgz#71797971162cd3cf65f0b9d24eb28f8d303acdf1"
+  integrity sha1-cXl5cRYs089l8LnSTrKPjTA6zfE=
 
 comment-json@^4.2.3:
   version "4.2.3"
@@ -449,122 +494,120 @@ core-util-is@^1.0.3:
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/core-util-is/-/core-util-is-1.0.3.tgz#a6042d3634c2b27e9328f837b965fac83808db85"
   integrity sha1-pgQtNjTCsn6TKPg3uWX6yDgI24U=
 
-cosmiconfig@^7.0.1:
-  version "7.0.1"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cosmiconfig/-/cosmiconfig-7.0.1.tgz#714d756522cace867867ccb4474c5d01bbae5d6d"
-  integrity sha1-cU11ZSLKzoZ4Z8y0R0xdAbuuXW0=
+cosmiconfig@^8.1.0:
+  version "8.1.0"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cosmiconfig/-/cosmiconfig-8.1.0.tgz#947e174c796483ccf0a48476c24e4fefb7e1aea8"
+  integrity sha1-lH4XTHlkg8zwpIR2wk5P77fhrqg=
   dependencies:
-    "@types/parse-json" "^4.0.0"
     import-fresh "^3.2.1"
+    js-yaml "^4.1.0"
     parse-json "^5.0.0"
     path-type "^4.0.0"
-    yaml "^1.10.0"
 
 crypto-random-string@^2.0.0:
   version "2.0.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/crypto-random-string/-/crypto-random-string-2.0.0.tgz#ef2a7a966ec11083388369baa02ebead229b30d5"
   integrity sha1-7yp6lm7BEIM4g2m6oC6+rSKbMNU=
 
-cspell-dictionary@6.14.2:
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-dictionary/-/cspell-dictionary-6.14.2.tgz#3790680a20c9bc388bf4aa4610fd569224be125f"
-  integrity sha1-N5BoCiDJvDiL9KpGEP1WkiS+El8=
+cspell-dictionary@6.29.3:
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-dictionary/-/cspell-dictionary-6.29.3.tgz#43bee4f799476c2eb65bab5ba11e2613a30cd5f7"
+  integrity sha1-Q77k95lHbC62W6tboR4mE6MM1fc=
   dependencies:
-    "@cspell/cspell-pipe" "6.14.2"
-    "@cspell/cspell-types" "6.14.2"
-    cspell-trie-lib "6.14.2"
+    "@cspell/cspell-pipe" "6.29.3"
+    "@cspell/cspell-types" "6.29.3"
+    cspell-trie-lib "6.29.3"
     fast-equals "^4.0.3"
-    gensequence "^4.0.2"
+    gensequence "^5.0.2"
 
-cspell-gitignore@6.14.2:
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-gitignore/-/cspell-gitignore-6.14.2.tgz#c15bb7d84da872282c96e7461f695e03ae1600ae"
-  integrity sha1-wVu32E2ocigsludGH2leA64WAK4=
+cspell-gitignore@6.29.3:
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-gitignore/-/cspell-gitignore-6.29.3.tgz#7e84c0339de378b47b9fc68e49680dacd3815757"
+  integrity sha1-foTAM53jeLR7n8aOSWgNrNOBV1c=
   dependencies:
-    cspell-glob "6.14.2"
+    cspell-glob "6.29.3"
     find-up "^5.0.0"
 
-cspell-glob@6.14.2:
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-glob/-/cspell-glob-6.14.2.tgz#49f3c8dcd9a19a018bc9fe458749b4f945aca33c"
-  integrity sha1-SfPI3NmhmgGLyf5Fh0m0+UWsozw=
+cspell-glob@6.29.3:
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-glob/-/cspell-glob-6.29.3.tgz#88f50d678b17c0da9cde73c8514f2c8393545f62"
+  integrity sha1-iPUNZ4sXwNqc3nPIUU8sg5NUX2I=
   dependencies:
     micromatch "^4.0.5"
 
-cspell-grammar@6.14.2:
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-grammar/-/cspell-grammar-6.14.2.tgz#760ecde945caeb53cd8dbc58025c89031d739465"
-  integrity sha1-dg7N6UXK61PNjbxYAlyJAx1zlGU=
+cspell-grammar@6.29.3:
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-grammar/-/cspell-grammar-6.29.3.tgz#f38d03d7149f72107432b1fd4c1ada65de73c14e"
+  integrity sha1-840D1xSfchB0MrH9TBraZd5zwU4=
   dependencies:
-    "@cspell/cspell-pipe" "6.14.2"
-    "@cspell/cspell-types" "6.14.2"
+    "@cspell/cspell-pipe" "6.29.3"
+    "@cspell/cspell-types" "6.29.3"
 
-cspell-io@6.14.2:
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-io/-/cspell-io-6.14.2.tgz#4d5d291becfebb15a91872b75a92072bf5036e57"
-  integrity sha1-TV0pG+z+uxWpGHK3WpIHK/UDblc=
+cspell-io@6.29.3:
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-io/-/cspell-io-6.29.3.tgz#a99b666162aa1897a426bd3e6b0ca826f209a1d0"
+  integrity sha1-qZtmYWKqGJekJr0+awyoJvIJodA=
   dependencies:
-    "@cspell/cspell-service-bus" "6.14.2"
-    node-fetch "^2.6.7"
+    "@cspell/cspell-service-bus" "6.29.3"
+    node-fetch "^2.6.9"
 
-cspell-lib@6.14.2:
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-lib/-/cspell-lib-6.14.2.tgz#6e72dd12c0d9037be607e71a22eb11320ade7544"
-  integrity sha1-bnLdEsDZA3vmB+caIusRMgredUQ=
+cspell-lib@6.29.3:
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-lib/-/cspell-lib-6.29.3.tgz#86bf6eb2886013f93b3aca26158d97517fe88fea"
+  integrity sha1-hr9usohgE/k7OsomFY2XUX/oj+o=
   dependencies:
-    "@cspell/cspell-bundled-dicts" "6.14.2"
-    "@cspell/cspell-pipe" "6.14.2"
-    "@cspell/cspell-types" "6.14.2"
-    "@cspell/strong-weak-map" "6.14.2"
+    "@cspell/cspell-bundled-dicts" "6.29.3"
+    "@cspell/cspell-pipe" "6.29.3"
+    "@cspell/cspell-types" "6.29.3"
+    "@cspell/strong-weak-map" "6.29.3"
     clear-module "^4.1.2"
     comment-json "^4.2.3"
     configstore "^5.0.1"
-    cosmiconfig "^7.0.1"
-    cspell-dictionary "6.14.2"
-    cspell-glob "6.14.2"
-    cspell-grammar "6.14.2"
-    cspell-io "6.14.2"
-    cspell-trie-lib "6.14.2"
+    cosmiconfig "^8.1.0"
+    cspell-dictionary "6.29.3"
+    cspell-glob "6.29.3"
+    cspell-grammar "6.29.3"
+    cspell-io "6.29.3"
+    cspell-trie-lib "6.29.3"
     fast-equals "^4.0.3"
     find-up "^5.0.0"
-    fs-extra "^10.1.0"
-    gensequence "^4.0.2"
+    gensequence "^5.0.2"
     import-fresh "^3.3.0"
     resolve-from "^5.0.0"
     resolve-global "^1.0.0"
-    vscode-languageserver-textdocument "^1.0.7"
-    vscode-uri "^3.0.6"
+    vscode-languageserver-textdocument "^1.0.8"
+    vscode-uri "^3.0.7"
 
-cspell-trie-lib@6.14.2:
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-trie-lib/-/cspell-trie-lib-6.14.2.tgz#1993b0b2a5b20ea7c75a335a8b1d815974cff14d"
-  integrity sha1-GZOwsqWyDqfHWjNaix2BWXTP8U0=
+cspell-trie-lib@6.29.3:
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell-trie-lib/-/cspell-trie-lib-6.29.3.tgz#134674f6846246c8606c649f6b0a32f0c0e04bbf"
+  integrity sha1-E0Z09oRiRshgbGSfawoy8MDgS78=
   dependencies:
-    "@cspell/cspell-pipe" "6.14.2"
-    "@cspell/cspell-types" "6.14.2"
-    fs-extra "^10.1.0"
-    gensequence "^4.0.2"
+    "@cspell/cspell-pipe" "6.29.3"
+    "@cspell/cspell-types" "6.29.3"
+    gensequence "^5.0.2"
 
 cspell@^6.14.2:
-  version "6.14.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell/-/cspell-6.14.2.tgz#31649d8bc30bbff1104b06c188013b0bceaa8835"
-  integrity sha1-MWSdi8MLv/EQSwbBiAE7C86qiDU=
+  version "6.29.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/cspell/-/cspell-6.29.3.tgz#4541cd4d4d912999e075782ca9f65b46e85a3f13"
+  integrity sha1-RUHNTU2RKZngdXgsqfZbRuhaPxM=
   dependencies:
-    "@cspell/cspell-pipe" "6.14.2"
+    "@cspell/cspell-pipe" "6.29.3"
+    "@cspell/dynamic-import" "6.29.3"
     chalk "^4.1.2"
-    commander "^9.4.1"
-    cspell-gitignore "6.14.2"
-    cspell-glob "6.14.2"
-    cspell-lib "6.14.2"
+    commander "^10.0.0"
+    cspell-gitignore "6.29.3"
+    cspell-glob "6.29.3"
+    cspell-io "6.29.3"
+    cspell-lib "6.29.3"
+    fast-glob "^3.2.12"
     fast-json-stable-stringify "^2.1.0"
     file-entry-cache "^6.0.1"
-    fs-extra "^10.1.0"
     get-stdin "^8.0.0"
-    glob "^8.0.3"
     imurmurhash "^0.1.4"
     semver "^7.3.8"
     strip-ansi "^6.0.1"
-    vscode-uri "^3.0.6"
+    vscode-uri "^3.0.7"
 
 dot-prop@^5.2.0:
   version "5.3.0"
@@ -595,10 +638,28 @@ fast-equals@^4.0.3:
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/fast-equals/-/fast-equals-4.0.3.tgz#72884cc805ec3c6679b99875f6b7654f39f0e8c7"
   integrity sha1-cohMyAXsPGZ5uZh19rdlTznw6Mc=
 
+fast-glob@^3.2.12:
+  version "3.2.12"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/fast-glob/-/fast-glob-3.2.12.tgz#7f39ec99c2e6ab030337142da9e0c18f37afae80"
+  integrity sha1-fznsmcLmqwMDNxQtqeDBjzevroA=
+  dependencies:
+    "@nodelib/fs.stat" "^2.0.2"
+    "@nodelib/fs.walk" "^1.2.3"
+    glob-parent "^5.1.2"
+    merge2 "^1.3.0"
+    micromatch "^4.0.4"
+
 fast-json-stable-stringify@^2.1.0:
   version "2.1.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/fast-json-stable-stringify/-/fast-json-stable-stringify-2.1.0.tgz#874bf69c6f404c2b5d99c481341399fd55892633"
   integrity sha1-h0v2nG9ATCtdmcSBNBOZ/VWJJjM=
+
+fastq@^1.6.0:
+  version "1.15.0"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/fastq/-/fastq-1.15.0.tgz#d04d07c6a2a68fe4599fea8d2e103a937fae6b3a"
+  integrity sha1-0E0HxqKmj+RZn+qNLhA6k3+uazo=
+  dependencies:
+    reusify "^1.0.4"
 
 file-entry-cache@^6.0.1:
   version "6.0.1"
@@ -635,29 +696,27 @@ flatted@^3.1.0:
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/flatted/-/flatted-3.2.7.tgz#609f39207cb614b89d0765b477cb2d437fbf9787"
   integrity sha1-YJ85IHy2FLidB2W0d8stQ3+/l4c=
 
-fs-extra@^10.1.0:
-  version "10.1.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/fs-extra/-/fs-extra-10.1.0.tgz#02873cfbc4084dde127eaa5f9905eef2325d1abf"
-  integrity sha1-Aoc8+8QITd4SfqpfmQXu8jJdGr8=
-  dependencies:
-    graceful-fs "^4.2.0"
-    jsonfile "^6.0.1"
-    universalify "^2.0.0"
-
 fs.realpath@^1.0.0:
   version "1.0.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/fs.realpath/-/fs.realpath-1.0.0.tgz#1504ad2523158caa40db4a2787cb01411994ea4f"
   integrity sha1-FQStJSMVjKpA20onh8sBQRmU6k8=
 
-gensequence@^4.0.2:
-  version "4.0.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/gensequence/-/gensequence-4.0.2.tgz#7c6147cf04451e9f6efe3872be9d46bb8d9c2603"
-  integrity sha1-fGFHzwRFHp9u/jhyvp1Gu42cJgM=
+gensequence@^5.0.2:
+  version "5.0.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/gensequence/-/gensequence-5.0.2.tgz#f065be2f9a5b2967b9cad7f33b2d79ce1f22dc82"
+  integrity sha1-8GW+L5pbKWe5ytfzOy15zh8i3II=
 
 get-stdin@^8.0.0:
   version "8.0.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/get-stdin/-/get-stdin-8.0.0.tgz#cbad6a73feb75f6eeb22ba9e01f89aa28aa97a53"
   integrity sha1-y61qc/63X27rIrqeAfiaooqpelM=
+
+glob-parent@^5.1.2:
+  version "5.1.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/glob-parent/-/glob-parent-5.1.2.tgz#869832c58034fe68a4093c17dc15e8340d8401c4"
+  integrity sha1-hpgyxYA0/mikCTwX3BXoNA2EAcQ=
+  dependencies:
+    is-glob "^4.0.1"
 
 glob@^7.1.3:
   version "7.2.3"
@@ -671,17 +730,6 @@ glob@^7.1.3:
     once "^1.3.0"
     path-is-absolute "^1.0.0"
 
-glob@^8.0.3:
-  version "8.0.3"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/glob/-/glob-8.0.3.tgz#415c6eb2deed9e502c68fa44a272e6da6eeca42e"
-  integrity sha1-QVxust7tnlAsaPpEonLm2m7spC4=
-  dependencies:
-    fs.realpath "^1.0.0"
-    inflight "^1.0.4"
-    inherits "2"
-    minimatch "^5.0.1"
-    once "^1.3.0"
-
 global-dirs@^0.1.1:
   version "0.1.1"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/global-dirs/-/global-dirs-0.1.1.tgz#b319c0dd4607f353f3be9cca4c72fc148c49f445"
@@ -689,7 +737,7 @@ global-dirs@^0.1.1:
   dependencies:
     ini "^1.3.4"
 
-graceful-fs@^4.1.2, graceful-fs@^4.1.6, graceful-fs@^4.2.0:
+graceful-fs@^4.1.2:
   version "4.2.10"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/graceful-fs/-/graceful-fs-4.2.10.tgz#147d3a006da4ca3ce14728c7aefc287c367d7a6c"
   integrity sha1-FH06AG2kyjzhRyjHrvwofDZ9emw=
@@ -716,6 +764,11 @@ import-fresh@^3.2.1, import-fresh@^3.3.0:
   dependencies:
     parent-module "^1.0.0"
     resolve-from "^4.0.0"
+
+import-meta-resolve@^2.2.2:
+  version "2.2.2"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/import-meta-resolve/-/import-meta-resolve-2.2.2.tgz#75237301e72d1f0fbd74dbc6cca9324b164c2cc9"
+  integrity sha1-dSNzAectHw+9dNvGzKkySxZMLMk=
 
 imurmurhash@^0.1.4:
   version "0.1.4"
@@ -745,6 +798,18 @@ is-arrayish@^0.2.1:
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/is-arrayish/-/is-arrayish-0.2.1.tgz#77c99840527aa8ecb1a8ba697b80645a7a926a9d"
   integrity sha1-d8mYQFJ6qOyxqLppe4BkWnqSap0=
 
+is-extglob@^2.1.1:
+  version "2.1.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/is-extglob/-/is-extglob-2.1.1.tgz#a88c02535791f02ed37c76a1b9ea9773c833f8c2"
+  integrity sha1-qIwCU1eR8C7TfHahueqXc8gz+MI=
+
+is-glob@^4.0.1:
+  version "4.0.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/is-glob/-/is-glob-4.0.3.tgz#64f61e42cbbb2eec2071a9dac0b28ba1e65d5084"
+  integrity sha1-ZPYeQsu7LuwgcanawLKLoeZdUIQ=
+  dependencies:
+    is-extglob "^2.1.1"
+
 is-number@^7.0.0:
   version "7.0.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/is-number/-/is-number-7.0.0.tgz#7535345b896734d5f80c4d06c50955527a14f12b"
@@ -765,19 +830,17 @@ js-tokens@^4.0.0:
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/js-tokens/-/js-tokens-4.0.0.tgz#19203fb59991df98e3a287050d4647cdeaf32499"
   integrity sha1-GSA/tZmR35jjoocFDUZHzerzJJk=
 
+js-yaml@^4.1.0:
+  version "4.1.0"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/js-yaml/-/js-yaml-4.1.0.tgz#c1fb65f8f5017901cdd2c951864ba18458a10602"
+  integrity sha1-wftl+PUBeQHN0slRhkuhhFihBgI=
+  dependencies:
+    argparse "^2.0.1"
+
 json-parse-even-better-errors@^2.3.0:
   version "2.3.1"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/json-parse-even-better-errors/-/json-parse-even-better-errors-2.3.1.tgz#7c47805a94319928e05777405dc12e1f7a4ee02d"
   integrity sha1-fEeAWpQxmSjgV3dAXcEuH3pO4C0=
-
-jsonfile@^6.0.1:
-  version "6.1.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/jsonfile/-/jsonfile-6.1.0.tgz#bc55b2634793c679ec6403094eb13698a6ec0aae"
-  integrity sha1-vFWyY0eTxnnsZAMJTrE2mKbsCq4=
-  dependencies:
-    universalify "^2.0.0"
-  optionalDependencies:
-    graceful-fs "^4.1.6"
 
 lines-and-columns@^1.1.6:
   version "1.2.4"
@@ -805,7 +868,12 @@ make-dir@^3.0.0:
   dependencies:
     semver "^6.0.0"
 
-micromatch@^4.0.5:
+merge2@^1.3.0:
+  version "1.4.1"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/merge2/-/merge2-1.4.1.tgz#4368892f885e907455a6fd7dc55c0c9d404990ae"
+  integrity sha1-Q2iJL4hekHRVpv19xVwMnUBJkK4=
+
+micromatch@^4.0.4, micromatch@^4.0.5:
   version "4.0.5"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/micromatch/-/micromatch-4.0.5.tgz#bc8999a7cbbf77cdc89f132f6e467051b49090c6"
   integrity sha1-vImZp8u/d83InxMvbkZwUbSQkMY=
@@ -820,17 +888,10 @@ minimatch@^3.1.1:
   dependencies:
     brace-expansion "^1.1.7"
 
-minimatch@^5.0.1:
-  version "5.1.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/minimatch/-/minimatch-5.1.0.tgz#1717b464f4971b144f6aabe8f2d0b8e4511e09c7"
-  integrity sha1-Fxe0ZPSXGxRPaqvo8tC45FEeCcc=
-  dependencies:
-    brace-expansion "^2.0.1"
-
-node-fetch@^2.6.7:
-  version "2.6.7"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/node-fetch/-/node-fetch-2.6.7.tgz#24de9fba827e3b4ae44dc8b20256a379160052ad"
-  integrity sha1-JN6fuoJ+O0rkTciyAlajeRYAUq0=
+node-fetch@^2.6.9:
+  version "2.6.9"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/node-fetch/-/node-fetch-2.6.9.tgz#7c7f744b5cc6eb5fd404e0c7a9fec630a55657e6"
+  integrity sha1-fH90S1zG61/UBODHqf7GMKVWV+Y=
   dependencies:
     whatwg-url "^5.0.0"
 
@@ -900,9 +961,14 @@ picomatch@^2.3.1:
   integrity sha1-O6ODNzNkbZ0+SZWUbBNlpn+wekI=
 
 prettier@^2.7.1:
-  version "2.7.1"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/prettier/-/prettier-2.7.1.tgz#e235806850d057f97bb08368a4f7d899f7760c64"
-  integrity sha1-4jWAaFDQV/l7sINopPfYmfd2DGQ=
+  version "2.8.4"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/prettier/-/prettier-2.8.4.tgz#34dd2595629bfbb79d344ac4a91ff948694463c3"
+  integrity sha1-NN0llWKb+7edNErEqR/5SGlEY8M=
+
+queue-microtask@^1.2.2:
+  version "1.2.3"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
+  integrity sha1-SSkii7xyTfrEPg77BYyve2z7YkM=
 
 repeat-string@^1.6.1:
   version "1.6.1"
@@ -926,12 +992,24 @@ resolve-global@^1.0.0:
   dependencies:
     global-dirs "^0.1.1"
 
+reusify@^1.0.4:
+  version "1.0.4"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/reusify/-/reusify-1.0.4.tgz#90da382b1e126efc02146e90845a88db12925d76"
+  integrity sha1-kNo4Kx4SbvwCFG6QhFqI2xKSXXY=
+
 rimraf@^3.0.2:
   version "3.0.2"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/rimraf/-/rimraf-3.0.2.tgz#f1a5402ba6220ad52cc1282bac1ae3aa49fd061a"
   integrity sha1-8aVAK6YiCtUswSgrrBrjqkn9Bho=
   dependencies:
     glob "^7.1.3"
+
+run-parallel@^1.1.9:
+  version "1.2.0"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/run-parallel/-/run-parallel-1.2.0.tgz#66d1368da7bdf921eb9d95bd1a9229e7f21a43ee"
+  integrity sha1-ZtE2jae9+SHrnZW9GpIp5/IaQ+4=
+  dependencies:
+    queue-microtask "^1.2.2"
 
 semver@^6.0.0:
   version "6.3.0"
@@ -997,20 +1075,15 @@ unique-string@^2.0.0:
   dependencies:
     crypto-random-string "^2.0.0"
 
-universalify@^2.0.0:
-  version "2.0.0"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/universalify/-/universalify-2.0.0.tgz#75a4984efedc4b08975c5aeb73f530d02df25717"
-  integrity sha1-daSYTv7cSwiXXFrrc/Uw0C3yVxc=
+vscode-languageserver-textdocument@^1.0.8:
+  version "1.0.8"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/vscode-languageserver-textdocument/-/vscode-languageserver-textdocument-1.0.8.tgz#9eae94509cbd945ea44bca8dcfe4bb0c15bb3ac0"
+  integrity sha1-nq6UUJy9lF6kS8qNz+S7DBW7OsA=
 
-vscode-languageserver-textdocument@^1.0.7:
-  version "1.0.7"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/vscode-languageserver-textdocument/-/vscode-languageserver-textdocument-1.0.7.tgz#16df468d5c2606103c90554ae05f9f3d335b771b"
-  integrity sha1-Ft9GjVwmBhA8kFVK4F+fPTNbdxs=
-
-vscode-uri@^3.0.6:
-  version "3.0.6"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/vscode-uri/-/vscode-uri-3.0.6.tgz#5e6e2e1a4170543af30151b561a41f71db1d6f91"
-  integrity sha1-Xm4uGkFwVDrzAVG1YaQfcdsdb5E=
+vscode-uri@^3.0.7:
+  version "3.0.7"
+  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/vscode-uri/-/vscode-uri-3.0.7.tgz#6d19fef387ee6b46c479e5fb00870e15e58c1eb8"
+  integrity sha1-bRn+84fua0bEeeX7AIcOFeWMHrg=
 
 webidl-conversions@^3.0.0:
   version "3.0.1"
@@ -1049,11 +1122,6 @@ yallist@^4.0.0:
   version "4.0.0"
   resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/yallist/-/yallist-4.0.0.tgz#9bb92790d9c0effec63be73519e11a35019a3a72"
   integrity sha1-m7knkNnA7/7GO+c1GeEaNQGaOnI=
-
-yaml@^1.10.0:
-  version "1.10.2"
-  resolved "https://pkgs.dev.azure.com/femaleinvest/_packaging/femaleinvest/npm/registry/yaml/-/yaml-1.10.2.tgz#2301c5ffbf12b467de8da2333a459e29e7920e4b"
-  integrity sha1-IwHF/78StGfejaIzOkWeKeeSDks=
 
 yocto-queue@^0.1.0:
   version "0.1.0"
